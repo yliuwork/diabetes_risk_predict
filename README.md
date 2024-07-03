@@ -104,10 +104,7 @@
     Alternative Models:Exploration of other machine learning algorithms such as Gradient Boosting, XGBoost, and ensemble methods that might handle class imbalance better and provide improved performance.
 
 #### Outline of project
-
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+   https://github.com/yliuwork/diabetes_risk_predict/blob/main/diabetes_risk_prediction.ipynb
 
 
 ##### Contact and Further Information
